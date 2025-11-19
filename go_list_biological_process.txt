@@ -1,0 +1,416 @@
+GO:1901566	0
+GO:0046700	0
+GO:0044270	0
+GO:0019439	0
+GO:1901361	0
+GO:0034613	0
+GO:0044237	0
+GO:0044265	0
+GO:1901564	0
+GO:0034622	0
+GO:0044267	0
+GO:0043624	0
+GO:0044271	0
+GO:0034641	0
+GO:1901575	0
+GO:0044249	0
+GO:1901576	0
+GO:0071702	0
+GO:0006807	0
+GO:0044260	0
+GO:0034645	0
+GO:0046483	0
+GO:0006725	0
+GO:1901360	0
+GO:0071704	0
+GO:0198738	0
+GO:2000116	0
+GO:0043281	0
+GO:0072321	0
+GO:1905114	0
+GO:0071310	0
+GO:0032268	0
+GO:0043280	0
+GO:2001056	0
+GO:0010941	0
+GO:1903827	0
+GO:0010033	0
+GO:0010035	0
+GO:0052126	0
+GO:0018130	0
+GO:1901362	0
+GO:0032270	0
+GO:0019438	0
+GO:0070265	0
+GO:0042493	0
+GO:0018196	0
+GO:1903069	0
+GO:0051767	0
+GO:0051769	0
+GO:0009265	2'-deoxyribonucleotide biosynthetic process
+GO:0043604	amide biosynthetic process
+GO:0043603	amide metabolic process
+GO:0042886	amide transport
+GO:1990000	amyloid fibril formation
+GO:0031100	animal organ regeneration
+GO:0019882	antigen processing and presentation
+GO:0019883	antigen processing and presentation of endogenous antigen
+GO:0002483	antigen processing and presentation of endogenous peptide antigen
+GO:0019885	antigen processing and presentation of endogenous peptide antigen via MHC class I
+GO:0002484	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway
+GO:0002486	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent
+GO:0019884	antigen processing and presentation of exogenous antigen
+GO:0002478	antigen processing and presentation of exogenous peptide antigen
+GO:0042590	antigen processing and presentation of exogenous peptide antigen via MHC class I
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent
+GO:0002480	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent
+GO:0048002	antigen processing and presentation of peptide antigen
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I
+GO:0006915	apoptotic process
+GO:0097190	apoptotic signaling pathway
+GO:0046034	ATP metabolic process
+GO:0042773	ATP synthesis coupled electron transport
+GO:0003283	atrial septum development
+GO:0060413	atrial septum morphogenesis
+GO:0003171	atrioventricular valve development
+GO:0086053	AV node cell to bundle of His cell communication by electrical coupling
+GO:0051701	biological process involved in interaction with host
+GO:0044419	biological process involved in interspecies interaction between organisms
+GO:0044403	biological process involved in symbiotic interaction
+GO:0008150	biological_process
+GO:0009058	biosynthetic process
+GO:0060070	canonical Wnt signaling pathway
+GO:0019752	carboxylic acid metabolic process
+GO:0003230	cardiac atrium development
+GO:0003209	cardiac atrium morphogenesis
+GO:0060411	cardiac septum morphogenesis
+GO:0009056	catabolic process
+GO:0001775	cell activation
+GO:0002263	cell activation involved in immune response
+GO:0008219	cell death
+GO:0044248	cellular catabolic process
+GO:0022607	cellular component assembly
+GO:0044085	cellular component biogenesis
+GO:0022411	cellular component disassembly
+GO:0016043	cellular component organization
+GO:0071840	cellular component organization or biogenesis
+GO:0051641	cellular localization
+GO:0070727	cellular macromolecule localization
+GO:0009987	cellular process
+GO:0045333	cellular respiration
+GO:0071229	cellular response to acid chemical
+GO:0071230	cellular response to amino acid stimulus
+GO:0071276	cellular response to cadmium ion
+GO:0070887	cellular response to chemical stimulus
+GO:0071345	cellular response to cytokine stimulus
+GO:0044344	cellular response to fibroblast growth factor stimulus
+GO:0071347	cellular response to interleukin-1
+GO:1901701	cellular response to oxygen-containing compound
+GO:0034614	cellular response to reactive oxygen species
+GO:0033554	cellular response to stress
+GO:0071356	cellular response to tumor necrosis factor
+GO:0071357	cellular response to type I interferon
+GO:0071346	cellular response to type II interferon
+GO:0051131	chaperone-mediated protein complex assembly
+GO:0038063	collagen-activated tyrosine kinase receptor signaling pathway
+GO:0055070	copper ion homeostasis
+GO:0006613	cotranslational protein targeting to membrane
+GO:0017004	cytochrome complex assembly
+GO:0019221	cytokine-mediated signaling pathway
+GO:0002181	cytoplasmic translation
+GO:0140546	defense response to symbiont
+GO:0051607	defense response to virus
+GO:0009263	deoxyribonucleotide biosynthetic process
+GO:0046385	deoxyribose phosphate biosynthetic process
+GO:0098754	detoxification
+GO:0034312	diol biosynthetic process
+GO:0034311	diol metabolic process
+GO:0035907	dorsal aorta development
+GO:0035912	dorsal aorta morphogenesis
+GO:0022900	electron transport chain
+GO:0003197	endocardial cushion development
+GO:0071787	endoplasmic reticulum tubular network formation
+GO:0045446	endothelial cell differentiation
+GO:0043542	endothelial cell migration
+GO:0061154	endothelial tube morphogenesis
+GO:0003158	endothelium development
+GO:0015980	energy derivation by oxidation of organic compounds
+GO:0001837	epithelial to mesenchymal transition
+GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation
+GO:0051234	establishment of localization
+GO:0051649	establishment of localization in cell
+GO:0040001	establishment of mitotic spindle localization
+GO:0000132	establishment of mitotic spindle orientation
+GO:0051656	establishment of organelle localization
+GO:0045184	establishment of protein localization
+GO:0072599	establishment of protein localization to endoplasmic reticulum
+GO:0090150	establishment of protein localization to membrane
+GO:0072594	establishment of protein localization to organelle
+GO:0006887	exocytosis
+GO:0140352	export from cell
+GO:0045229	external encapsulating structure organization
+GO:0030198	extracellular matrix organization
+GO:0043062	extracellular structure organization
+GO:0097191	extrinsic apoptotic signaling pathway
+GO:0010467	gene expression
+GO:0006091	generation of precursor metabolites and energy
+GO:0036230	granulocyte activation
+GO:0061384	heart trabecula morphogenesis
+GO:0097284	hepatocyte apoptotic process
+GO:0002252	immune effector process
+GO:0070498	interleukin-1-mediated signaling pathway
+GO:0038172	interleukin-33-mediated signaling pathway
+GO:0033484	intracellular nitric oxide homeostasis
+GO:0006886	intracellular protein transport
+GO:0035556	intracellular signal transduction
+GO:0046907	intracellular transport
+GO:0042180	ketone metabolic process
+GO:0045321	leukocyte activation
+GO:0002366	leukocyte activation involved in immune response
+GO:0043299	leukocyte degranulation
+GO:0002443	leukocyte mediated immunity
+GO:0097421	liver regeneration
+GO:0051179	localization
+GO:0009059	macromolecule biosynthetic process
+GO:0009057	macromolecule catabolic process
+GO:0033036	macromolecule localization
+GO:0043170	macromolecule metabolic process
+GO:0042116	macrophage activation
+GO:0000165	MAPK cascade
+GO:0051899	membrane depolarization
+GO:0008152	metabolic process
+GO:0001774	microglial cell activation
+GO:0042775	mitochondrial ATP synthesis coupled electron transport
+GO:0033617	mitochondrial cytochrome c oxidase assembly
+GO:0006120	mitochondrial electron transport, NADH to ubiquinone
+GO:0006122	mitochondrial electron transport, ubiquinol to cytochrome c
+GO:0140053	mitochondrial gene expression
+GO:0033108	mitochondrial respiratory chain complex assembly
+GO:0032981	mitochondrial respiratory chain complex I assembly
+GO:0034553	mitochondrial respiratory chain complex II assembly
+GO:0032543	mitochondrial translation
+GO:0070125	mitochondrial translational elongation
+GO:0070126	mitochondrial translational termination
+GO:0007005	mitochondrion organization
+GO:0140014	mitotic nuclear division
+GO:0003174	mitral valve development
+GO:0006820	monoatomic anion transport
+GO:0006811	monoatomic ion transport
+GO:0003159	morphogenesis of an endothelium
+GO:0006402	mRNA catabolic process
+GO:0016071	mRNA metabolic process
+GO:0043217	myelin maintenance
+GO:0002275	myeloid cell activation involved in immune response
+GO:0002274	myeloid leukocyte activation
+GO:0002444	myeloid leukocyte mediated immunity
+GO:0010257	NADH dehydrogenase complex assembly
+GO:0048519	negative regulation of biological process
+GO:0090090	negative regulation of canonical Wnt signaling pathway
+GO:0043086	negative regulation of catalytic activity
+GO:0051129	negative regulation of cellular component organization
+GO:0010951	negative regulation of endopeptidase activity
+GO:0010716	negative regulation of extracellular matrix disassembly
+GO:0010629	negative regulation of gene expression
+GO:0002689	negative regulation of leukocyte chemotaxis
+GO:0002686	negative regulation of leukocyte migration
+GO:0010605	negative regulation of macromolecule metabolic process
+GO:0009892	negative regulation of metabolic process
+GO:0044092	negative regulation of molecular function
+GO:0010466	negative regulation of peptidase activity
+GO:0051248	negative regulation of protein metabolic process
+GO:0045861	negative regulation of proteolysis
+GO:0002832	negative regulation of response to biotic stimulus
+GO:0048585	negative regulation of response to stimulus
+GO:1902904	negative regulation of supramolecular fiber organization
+GO:0045071	negative regulation of viral genome replication
+GO:0030178	negative regulation of Wnt signaling pathway
+GO:0042119	neutrophil activation
+GO:0002283	neutrophil activation involved in immune response
+GO:0043312	neutrophil degranulation
+GO:0002446	neutrophil mediated immunity
+GO:1990266	neutrophil migration
+GO:0071705	nitrogen compound transport
+GO:0000956	nuclear-transcribed mRNA catabolic process
+GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+GO:0090304	nucleic acid metabolic process
+GO:0034654	nucleobase-containing compound biosynthetic process
+GO:0034655	nucleobase-containing compound catabolic process
+GO:0006139	nucleobase-containing compound metabolic process
+GO:0006996	organelle organization
+GO:0003151	outflow tract morphogenesis
+GO:0003148	outflow tract septum morphogenesis
+GO:0006119	oxidative phosphorylation
+GO:0043436	oxoacid metabolic process
+GO:0043043	peptide biosynthetic process
+GO:0006518	peptide metabolic process
+GO:0015833	peptide transport
+GO:0006796	phosphate-containing compound metabolic process
+GO:0006793	phosphorus metabolic process
+GO:0016310	phosphorylation
+GO:0001890	placenta development
+GO:1905908	positive regulation of amyloid fibril formation
+GO:0048518	positive regulation of biological process
+GO:0043123	positive regulation of canonical NF-kappaB signal transduction
+GO:0090263	positive regulation of canonical Wnt signaling pathway
+GO:0010647	positive regulation of cell communication
+GO:0051130	positive regulation of cellular component organization
+GO:0048522	positive regulation of cellular process
+GO:0001819	positive regulation of cytokine production
+GO:0031349	positive regulation of defense response
+GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0010950	positive regulation of endopeptidase activity
+GO:0010718	positive regulation of epithelial to mesenchymal transition
+GO:0010628	positive regulation of gene expression
+GO:0050729	positive regulation of inflammatory response
+GO:1902533	positive regulation of intracellular signal transduction
+GO:1903800	positive regulation of miRNA processing
+GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0010952	positive regulation of peptidase activity
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process
+GO:0032092	positive regulation of protein binding
+GO:1903829	positive regulation of protein localization
+GO:1900182	positive regulation of protein localization to nucleus
+GO:0051247	positive regulation of protein metabolic process
+GO:1903955	positive regulation of protein targeting to mitochondrion
+GO:0045862	positive regulation of proteolysis
+GO:0032103	positive regulation of response to external stimulus
+GO:0009967	positive regulation of signal transduction
+GO:0023056	positive regulation of signaling
+GO:0002726	positive regulation of T cell cytokine production
+GO:0030177	positive regulation of Wnt signaling pathway
+GO:0044238	primary metabolic process
+GO:0012501	programmed cell death
+GO:0006693	prostaglandin metabolic process
+GO:0006692	prostanoid metabolic process
+GO:0006457	protein folding
+GO:0008104	protein localization
+GO:1990778	protein localization to cell periphery
+GO:0070972	protein localization to endoplasmic reticulum
+GO:0072657	protein localization to membrane
+GO:0033365	protein localization to organelle
+GO:0072659	protein localization to plasma membrane
+GO:0019538	protein metabolic process
+GO:0018279	protein N-linked glycosylation via asparagine
+GO:0006605	protein targeting
+GO:0045047	protein targeting to ER
+GO:0006612	protein targeting to membrane
+GO:0015031	protein transport
+GO:0070206	protein trimerization
+GO:0065003	protein-containing complex assembly
+GO:0032984	protein-containing complex disassembly
+GO:0043933	protein-containing complex organization
+GO:0022618	protein-RNA complex assembly
+GO:0006508	proteolysis
+GO:0036343	psychomotor behavior
+GO:0003177	pulmonary valve development
+GO:0003184	pulmonary valve morphogenesis
+GO:0009153	purine deoxyribonucleotide biosynthetic process
+GO:0045055	regulated exocytosis
+GO:1903115	regulation of actin filament-based movement
+GO:0006521	regulation of amino acid metabolic process
+GO:1905906	regulation of amyloid fibril formation
+GO:0051098	regulation of binding
+GO:0043903	regulation of biological process involved in symbiotic interaction
+GO:0065008	regulation of biological quality
+GO:0098905	regulation of bundle of His cell action potential
+GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0098901	regulation of cardiac muscle cell action potential
+GO:0098909	regulation of cardiac muscle cell action potential involved in regulation of contraction
+GO:0086004	regulation of cardiac muscle cell contraction
+GO:0050790	regulation of catalytic activity
+GO:0010649	regulation of cell communication by electrical coupling
+GO:0044087	regulation of cellular component biogenesis
+GO:0051128	regulation of cellular component organization
+GO:0060341	regulation of cellular localization
+GO:2000303	regulation of ceramide biosynthetic process
+GO:0010712	regulation of collagen metabolic process
+GO:0002718	regulation of cytokine production involved in immune response
+GO:0031347	regulation of defense response
+GO:0051090	regulation of DNA-binding transcription factor activity
+GO:0052548	regulation of endopeptidase activity
+GO:0010717	regulation of epithelial to mesenchymal transition
+GO:0010468	regulation of gene expression
+GO:0034350	regulation of glial cell apoptotic process
+GO:0045088	regulation of innate immune response
+GO:1902531	regulation of intracellular signal transduction
+GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage
+GO:0010565	regulation of ketone metabolic process
+GO:0060255	regulation of macromolecule metabolic process
+GO:0019222	regulation of metabolic process
+GO:0007088	regulation of mitotic nuclear division
+GO:0065009	regulation of molecular function
+GO:0033043	regulation of organelle organization
+GO:0052547	regulation of peptidase activity
+GO:0048548	regulation of pinocytosis
+GO:0032434	regulation of proteasomal ubiquitin-dependent protein catabolic process
+GO:0032880	regulation of protein localization
+GO:0051246	regulation of protein metabolic process
+GO:0031647	regulation of protein stability
+GO:0030162	regulation of proteolysis
+GO:0032101	regulation of response to external stimulus
+GO:0080134	regulation of response to stress
+GO:0062012	regulation of small molecule metabolic process
+GO:1902903	regulation of supramolecular fiber organization
+GO:0045069	regulation of viral genome replication
+GO:0050792	regulation of viral process
+GO:0030111	regulation of Wnt signaling pathway
+GO:0001836	release of cytochrome c from mitochondria
+GO:0034552	respiratory chain complex II assembly
+GO:0008535	respiratory chain complex IV assembly
+GO:0022904	respiratory electron transport chain
+GO:0009628	response to abiotic stimulus
+GO:0009607	response to biotic stimulus
+GO:0046686	response to cadmium ion
+GO:0046688	response to copper ion
+GO:0034097	response to cytokine
+GO:0036293	response to decreased oxygen levels
+GO:0043207	response to external biotic stimulus
+GO:0071774	response to fibroblast growth factor
+GO:0001666	response to hypoxia
+GO:0035456	response to interferon-beta
+GO:0070555	response to interleukin-1
+GO:0051707	response to other organism
+GO:0006979	response to oxidative stress
+GO:0070482	response to oxygen levels
+GO:0000302	response to reactive oxygen species
+GO:0006950	response to stress
+GO:0034612	response to tumor necrosis factor
+GO:0034340	response to type I interferon
+GO:0034341	response to type II interferon
+GO:0009615	response to virus
+GO:0022613	ribonucleoprotein complex biogenesis
+GO:0000028	ribosomal small subunit assembly
+GO:0042274	ribosomal small subunit biogenesis
+GO:0042255	ribosome assembly
+GO:0042254	ribosome biogenesis
+GO:0006401	RNA catabolic process
+GO:0016070	RNA metabolic process
+GO:0086021	SA node cell to atrial cardiac muscle cell communication by electrical coupling
+GO:0046903	secretion
+GO:0032940	secretion by cell
+GO:1905314	semi-lunar valve development
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane
+GO:0097435	supramolecular fiber organization
+GO:0044409	symbiont entry into host
+GO:0046718	symbiont entry into host cell
+GO:0050852	T cell receptor signaling pathway
+GO:0048729	tissue morphogenesis
+GO:0061383	trabecula morphogenesis
+GO:0006412	translation
+GO:0006414	translational elongation
+GO:0006413	translational initiation
+GO:0006415	translational termination
+GO:0006810	transport
+GO:0003186	tricuspid valve morphogenesis
+GO:0033209	tumor necrosis factor-mediated signaling pathway
+GO:0060337	type I interferon-mediated signaling pathway
+GO:0060333	type II interferon-mediated signaling pathway
+GO:0060412	ventricular septum morphogenesis
+GO:0003222	ventricular trabecula myocardium morphogenesis
+GO:0016192	vesicle-mediated transport
+GO:0019080	viral gene expression
+GO:0019079	viral genome replication
+GO:0019058	viral life cycle
+GO:0016032	viral process
+GO:0019083	viral transcription
+GO:0016055	Wnt signaling pathway
