@@ -1,0 +1,417 @@
+id,term,high_level_function
+GO:1901566,,UNASSIGNED
+GO:0046700,,UNASSIGNED
+GO:0044270,,UNASSIGNED
+GO:0019439,,UNASSIGNED
+GO:1901361,,UNASSIGNED
+GO:0034613,,UNASSIGNED
+GO:0044237,,UNASSIGNED
+GO:0044265,,UNASSIGNED
+GO:1901564,,UNASSIGNED
+GO:0034622,,UNASSIGNED
+GO:0044267,,UNASSIGNED
+GO:0043624,,UNASSIGNED
+GO:0044271,,UNASSIGNED
+GO:0034641,,UNASSIGNED
+GO:1901575,,UNASSIGNED
+GO:0044249,,UNASSIGNED
+GO:1901576,,UNASSIGNED
+GO:0071702,,UNASSIGNED
+GO:0006807,,UNASSIGNED
+GO:0044260,,UNASSIGNED
+GO:0034645,,UNASSIGNED
+GO:0046483,,UNASSIGNED
+GO:0006725,,UNASSIGNED
+GO:1901360,,UNASSIGNED
+GO:0071704,,UNASSIGNED
+GO:0198738,,UNASSIGNED
+GO:2000116,,UNASSIGNED
+GO:0043281,,UNASSIGNED
+GO:0072321,,UNASSIGNED
+GO:1905114,,UNASSIGNED
+GO:0071310,,UNASSIGNED
+GO:0032268,,UNASSIGNED
+GO:0043280,,UNASSIGNED
+GO:2001056,,UNASSIGNED
+GO:0010941,,UNASSIGNED
+GO:1903827,,UNASSIGNED
+GO:0010033,,UNASSIGNED
+GO:0010035,,UNASSIGNED
+GO:0052126,,UNASSIGNED
+GO:0018130,,UNASSIGNED
+GO:1901362,,UNASSIGNED
+GO:0032270,,UNASSIGNED
+GO:0019438,,UNASSIGNED
+GO:0070265,,UNASSIGNED
+GO:0042493,,UNASSIGNED
+GO:0018196,,UNASSIGNED
+GO:1903069,,UNASSIGNED
+GO:0051767,,UNASSIGNED
+GO:0051769,,UNASSIGNED
+GO:0009265,2'-deoxyribonucleotide biosynthetic process,Metabolism
+GO:0043604,amide biosynthetic process,Metabolism
+GO:0043603,amide metabolic process,Metabolism
+GO:0042886,amide transport,UNASSIGNED
+GO:1990000,amyloid fibril formation,UNASSIGNED
+GO:0031100,animal organ regeneration,UNASSIGNED
+GO:0019882,antigen processing and presentation,UNASSIGNED
+GO:0019883,antigen processing and presentation of endogenous antigen,UNASSIGNED
+GO:0002483,antigen processing and presentation of endogenous peptide antigen,UNASSIGNED
+GO:0019885,antigen processing and presentation of endogenous peptide antigen via MHC class I,UNASSIGNED
+GO:0002484,antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway,UNASSIGNED
+GO:0002486,"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent",UNASSIGNED
+GO:0019884,antigen processing and presentation of exogenous antigen,UNASSIGNED
+GO:0002478,antigen processing and presentation of exogenous peptide antigen,UNASSIGNED
+GO:0042590,antigen processing and presentation of exogenous peptide antigen via MHC class I,UNASSIGNED
+GO:0002479,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",UNASSIGNED
+GO:0002480,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent",UNASSIGNED
+GO:0048002,antigen processing and presentation of peptide antigen,UNASSIGNED
+GO:0002474,antigen processing and presentation of peptide antigen via MHC class I,UNASSIGNED
+GO:0006915,apoptotic process,UNASSIGNED
+GO:0097190,apoptotic signaling pathway,UNASSIGNED
+GO:0046034,ATP metabolic process,Metabolism
+GO:0042773,ATP synthesis coupled electron transport,UNASSIGNED
+GO:0003283,atrial septum development,UNASSIGNED
+GO:0060413,atrial septum morphogenesis,UNASSIGNED
+GO:0003171,atrioventricular valve development,UNASSIGNED
+GO:0086053,AV node cell to bundle of His cell communication by electrical coupling,UNASSIGNED
+GO:0051701,biological process involved in interaction with host,UNASSIGNED
+GO:0044419,biological process involved in interspecies interaction between organisms,UNASSIGNED
+GO:0044403,biological process involved in symbiotic interaction,UNASSIGNED
+GO:0008150,biological_process,UNASSIGNED
+GO:0009058,biosynthetic process,Metabolism
+GO:0060070,canonical Wnt signaling pathway,UNASSIGNED
+GO:0019752,carboxylic acid metabolic process,Metabolism
+GO:0003230,cardiac atrium development,UNASSIGNED
+GO:0003209,cardiac atrium morphogenesis,UNASSIGNED
+GO:0060411,cardiac septum morphogenesis,UNASSIGNED
+GO:0009056,catabolic process,Metabolism
+GO:0001775,cell activation,UNASSIGNED
+GO:0002263,cell activation involved in immune response,Inflammation
+GO:0008219,cell death,UNASSIGNED
+GO:0044248,cellular catabolic process,Metabolism
+GO:0022607,cellular component assembly,UNASSIGNED
+GO:0044085,cellular component biogenesis,UNASSIGNED
+GO:0022411,cellular component disassembly,UNASSIGNED
+GO:0016043,cellular component organization,UNASSIGNED
+GO:0071840,cellular component organization or biogenesis,UNASSIGNED
+GO:0051641,cellular localization,UNASSIGNED
+GO:0070727,cellular macromolecule localization,UNASSIGNED
+GO:0009987,cellular process,UNASSIGNED
+GO:0045333,cellular respiration,UNASSIGNED
+GO:0071229,cellular response to acid chemical,UNASSIGNED
+GO:0071230,cellular response to amino acid stimulus,UNASSIGNED
+GO:0071276,cellular response to cadmium ion,UNASSIGNED
+GO:0070887,cellular response to chemical stimulus,UNASSIGNED
+GO:0071345,cellular response to cytokine stimulus,Inflammation
+GO:0044344,cellular response to fibroblast growth factor stimulus,UNASSIGNED
+GO:0071347,cellular response to interleukin-1,Inflammation
+GO:1901701,cellular response to oxygen-containing compound,UNASSIGNED
+GO:0034614,cellular response to reactive oxygen species,UNASSIGNED
+GO:0033554,cellular response to stress,UNASSIGNED
+GO:0071356,cellular response to tumor necrosis factor,Inflammation
+GO:0071357,cellular response to type I interferon,Inflammation
+GO:0071346,cellular response to type II interferon,Inflammation
+GO:0051131,chaperone-mediated protein complex assembly,UNASSIGNED
+GO:0038063,collagen-activated tyrosine kinase receptor signaling pathway,UNASSIGNED
+GO:0055070,copper ion homeostasis,UNASSIGNED
+GO:0006613,cotranslational protein targeting to membrane,UNASSIGNED
+GO:0017004,cytochrome complex assembly,UNASSIGNED
+GO:0019221,cytokine-mediated signaling pathway,Inflammation
+GO:0002181,cytoplasmic translation,UNASSIGNED
+GO:0140546,defense response to symbiont,Inflammation
+GO:0051607,defense response to virus,Inflammation
+GO:0009263,deoxyribonucleotide biosynthetic process,Metabolism
+GO:0046385,deoxyribose phosphate biosynthetic process,Metabolism
+GO:0098754,detoxification,UNASSIGNED
+GO:0034312,diol biosynthetic process,Metabolism
+GO:0034311,diol metabolic process,Metabolism
+GO:0035907,dorsal aorta development,UNASSIGNED
+GO:0035912,dorsal aorta morphogenesis,UNASSIGNED
+GO:0022900,electron transport chain,UNASSIGNED
+GO:0003197,endocardial cushion development,UNASSIGNED
+GO:0071787,endoplasmic reticulum tubular network formation,UNASSIGNED
+GO:0045446,endothelial cell differentiation,UNASSIGNED
+GO:0043542,endothelial cell migration,UNASSIGNED
+GO:0061154,endothelial tube morphogenesis,Angiogenesis
+GO:0003158,endothelium development,UNASSIGNED
+GO:0015980,energy derivation by oxidation of organic compounds,UNASSIGNED
+GO:0001837,epithelial to mesenchymal transition,UNASSIGNED
+GO:0003198,epithelial to mesenchymal transition involved in endocardial cushion formation,UNASSIGNED
+GO:0051234,establishment of localization,UNASSIGNED
+GO:0051649,establishment of localization in cell,UNASSIGNED
+GO:0040001,establishment of mitotic spindle localization,UNASSIGNED
+GO:0000132,establishment of mitotic spindle orientation,UNASSIGNED
+GO:0051656,establishment of organelle localization,UNASSIGNED
+GO:0045184,establishment of protein localization,UNASSIGNED
+GO:0072599,establishment of protein localization to endoplasmic reticulum,UNASSIGNED
+GO:0090150,establishment of protein localization to membrane,UNASSIGNED
+GO:0072594,establishment of protein localization to organelle,UNASSIGNED
+GO:0006887,exocytosis,UNASSIGNED
+GO:0140352,export from cell,UNASSIGNED
+GO:0045229,external encapsulating structure organization,UNASSIGNED
+GO:0030198,extracellular matrix organization,Vascular permeability
+GO:0043062,extracellular structure organization,UNASSIGNED
+GO:0097191,extrinsic apoptotic signaling pathway,UNASSIGNED
+GO:0010467,gene expression,UNASSIGNED
+GO:0006091,generation of precursor metabolites and energy,UNASSIGNED
+GO:0036230,granulocyte activation,UNASSIGNED
+GO:0061384,heart trabecula morphogenesis,UNASSIGNED
+GO:0097284,hepatocyte apoptotic process,UNASSIGNED
+GO:0002252,immune effector process,UNASSIGNED
+GO:0070498,interleukin-1-mediated signaling pathway,Inflammation
+GO:0038172,interleukin-33-mediated signaling pathway,Inflammation
+GO:0033484,intracellular nitric oxide homeostasis,Vascular tone
+GO:0006886,intracellular protein transport,UNASSIGNED
+GO:0035556,intracellular signal transduction,UNASSIGNED
+GO:0046907,intracellular transport,UNASSIGNED
+GO:0042180,ketone metabolic process,Metabolism
+GO:0045321,leukocyte activation,White cell trafficking
+GO:0002366,leukocyte activation involved in immune response,White cell trafficking
+GO:0043299,leukocyte degranulation,White cell trafficking
+GO:0002443,leukocyte mediated immunity,White cell trafficking
+GO:0097421,liver regeneration,UNASSIGNED
+GO:0051179,localization,UNASSIGNED
+GO:0009059,macromolecule biosynthetic process,Metabolism
+GO:0009057,macromolecule catabolic process,Metabolism
+GO:0033036,macromolecule localization,UNASSIGNED
+GO:0043170,macromolecule metabolic process,Metabolism
+GO:0042116,macrophage activation,White cell trafficking
+GO:0000165,MAPK cascade,UNASSIGNED
+GO:0051899,membrane depolarization,UNASSIGNED
+GO:0008152,metabolic process,Metabolism
+GO:0001774,microglial cell activation,UNASSIGNED
+GO:0042775,mitochondrial ATP synthesis coupled electron transport,UNASSIGNED
+GO:0033617,mitochondrial cytochrome c oxidase assembly,UNASSIGNED
+GO:0006120,"mitochondrial electron transport, NADH to ubiquinone",UNASSIGNED
+GO:0006122,"mitochondrial electron transport, ubiquinol to cytochrome c",UNASSIGNED
+GO:0140053,mitochondrial gene expression,UNASSIGNED
+GO:0033108,mitochondrial respiratory chain complex assembly,UNASSIGNED
+GO:0032981,mitochondrial respiratory chain complex I assembly,UNASSIGNED
+GO:0034553,mitochondrial respiratory chain complex II assembly,UNASSIGNED
+GO:0032543,mitochondrial translation,UNASSIGNED
+GO:0070125,mitochondrial translational elongation,UNASSIGNED
+GO:0070126,mitochondrial translational termination,UNASSIGNED
+GO:0007005,mitochondrion organization,UNASSIGNED
+GO:0140014,mitotic nuclear division,UNASSIGNED
+GO:0003174,mitral valve development,UNASSIGNED
+GO:0006820,monoatomic anion transport,UNASSIGNED
+GO:0006811,monoatomic ion transport,UNASSIGNED
+GO:0003159,morphogenesis of an endothelium,UNASSIGNED
+GO:0006402,mRNA catabolic process,Metabolism
+GO:0016071,mRNA metabolic process,Metabolism
+GO:0043217,myelin maintenance,UNASSIGNED
+GO:0002275,myeloid cell activation involved in immune response,White cell trafficking
+GO:0002274,myeloid leukocyte activation,White cell trafficking
+GO:0002444,myeloid leukocyte mediated immunity,White cell trafficking
+GO:0010257,NADH dehydrogenase complex assembly,UNASSIGNED
+GO:0048519,negative regulation of biological process,UNASSIGNED
+GO:0090090,negative regulation of canonical Wnt signaling pathway,UNASSIGNED
+GO:0043086,negative regulation of catalytic activity,UNASSIGNED
+GO:0051129,negative regulation of cellular component organization,UNASSIGNED
+GO:0010951,negative regulation of endopeptidase activity,UNASSIGNED
+GO:0010716,negative regulation of extracellular matrix disassembly,Vascular permeability
+GO:0010629,negative regulation of gene expression,UNASSIGNED
+GO:0002689,negative regulation of leukocyte chemotaxis,White cell trafficking
+GO:0002686,negative regulation of leukocyte migration,White cell trafficking
+GO:0010605,negative regulation of macromolecule metabolic process,Metabolism
+GO:0009892,negative regulation of metabolic process,Metabolism
+GO:0044092,negative regulation of molecular function,UNASSIGNED
+GO:0010466,negative regulation of peptidase activity,UNASSIGNED
+GO:0051248,negative regulation of protein metabolic process,Metabolism
+GO:0045861,negative regulation of proteolysis,UNASSIGNED
+GO:0002832,negative regulation of response to biotic stimulus,UNASSIGNED
+GO:0048585,negative regulation of response to stimulus,UNASSIGNED
+GO:1902904,negative regulation of supramolecular fiber organization,UNASSIGNED
+GO:0045071,negative regulation of viral genome replication,UNASSIGNED
+GO:0030178,negative regulation of Wnt signaling pathway,UNASSIGNED
+GO:0042119,neutrophil activation,White cell trafficking
+GO:0002283,neutrophil activation involved in immune response,White cell trafficking
+GO:0043312,neutrophil degranulation,White cell trafficking
+GO:0002446,neutrophil mediated immunity,White cell trafficking
+GO:1990266,neutrophil migration,White cell trafficking
+GO:0071705,nitrogen compound transport,UNASSIGNED
+GO:0000956,nuclear-transcribed mRNA catabolic process,Metabolism
+GO:0000184,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",Metabolism
+GO:0090304,nucleic acid metabolic process,Metabolism
+GO:0034654,nucleobase-containing compound biosynthetic process,Metabolism
+GO:0034655,nucleobase-containing compound catabolic process,Metabolism
+GO:0006139,nucleobase-containing compound metabolic process,Metabolism
+GO:0006996,organelle organization,UNASSIGNED
+GO:0003151,outflow tract morphogenesis,UNASSIGNED
+GO:0003148,outflow tract septum morphogenesis,UNASSIGNED
+GO:0006119,oxidative phosphorylation,Metabolism
+GO:0043436,oxoacid metabolic process,Metabolism
+GO:0043043,peptide biosynthetic process,Metabolism
+GO:0006518,peptide metabolic process,Metabolism
+GO:0015833,peptide transport,UNASSIGNED
+GO:0006796,phosphate-containing compound metabolic process,Metabolism
+GO:0006793,phosphorus metabolic process,Metabolism
+GO:0016310,phosphorylation,UNASSIGNED
+GO:0001890,placenta development,UNASSIGNED
+GO:1905908,positive regulation of amyloid fibril formation,UNASSIGNED
+GO:0048518,positive regulation of biological process,UNASSIGNED
+GO:0043123,positive regulation of canonical NF-kappaB signal transduction,UNASSIGNED
+GO:0090263,positive regulation of canonical Wnt signaling pathway,UNASSIGNED
+GO:0010647,positive regulation of cell communication,UNASSIGNED
+GO:0051130,positive regulation of cellular component organization,UNASSIGNED
+GO:0048522,positive regulation of cellular process,UNASSIGNED
+GO:0001819,positive regulation of cytokine production,Inflammation
+GO:0031349,positive regulation of defense response,Inflammation
+GO:0051091,positive regulation of DNA-binding transcription factor activity,UNASSIGNED
+GO:0010950,positive regulation of endopeptidase activity,UNASSIGNED
+GO:0010718,positive regulation of epithelial to mesenchymal transition,UNASSIGNED
+GO:0010628,positive regulation of gene expression,UNASSIGNED
+GO:0050729,positive regulation of inflammatory response,Inflammation
+GO:1902533,positive regulation of intracellular signal transduction,UNASSIGNED
+GO:1903800,positive regulation of miRNA processing,UNASSIGNED
+GO:0051092,positive regulation of NF-kappaB transcription factor activity,UNASSIGNED
+GO:0010952,positive regulation of peptidase activity,UNASSIGNED
+GO:0032436,positive regulation of proteasomal ubiquitin-dependent protein catabolic process,Metabolism
+GO:0032092,positive regulation of protein binding,UNASSIGNED
+GO:1903829,positive regulation of protein localization,UNASSIGNED
+GO:1900182,positive regulation of protein localization to nucleus,UNASSIGNED
+GO:0051247,positive regulation of protein metabolic process,Metabolism
+GO:1903955,positive regulation of protein targeting to mitochondrion,UNASSIGNED
+GO:0045862,positive regulation of proteolysis,UNASSIGNED
+GO:0032103,positive regulation of response to external stimulus,UNASSIGNED
+GO:0009967,positive regulation of signal transduction,UNASSIGNED
+GO:0023056,positive regulation of signaling,UNASSIGNED
+GO:0002726,positive regulation of T cell cytokine production,White cell trafficking
+GO:0030177,positive regulation of Wnt signaling pathway,UNASSIGNED
+GO:0044238,primary metabolic process,Metabolism
+GO:0012501,programmed cell death,UNASSIGNED
+GO:0006693,prostaglandin metabolic process,Metabolism
+GO:0006692,prostanoid metabolic process,Metabolism
+GO:0006457,protein folding,UNASSIGNED
+GO:0008104,protein localization,UNASSIGNED
+GO:1990778,protein localization to cell periphery,UNASSIGNED
+GO:0070972,protein localization to endoplasmic reticulum,UNASSIGNED
+GO:0072657,protein localization to membrane,UNASSIGNED
+GO:0033365,protein localization to organelle,UNASSIGNED
+GO:0072659,protein localization to plasma membrane,UNASSIGNED
+GO:0019538,protein metabolic process,Metabolism
+GO:0018279,protein N-linked glycosylation via asparagine,UNASSIGNED
+GO:0006605,protein targeting,UNASSIGNED
+GO:0045047,protein targeting to ER,UNASSIGNED
+GO:0006612,protein targeting to membrane,UNASSIGNED
+GO:0015031,protein transport,UNASSIGNED
+GO:0070206,protein trimerization,UNASSIGNED
+GO:0065003,protein-containing complex assembly,UNASSIGNED
+GO:0032984,protein-containing complex disassembly,UNASSIGNED
+GO:0043933,protein-containing complex organization,UNASSIGNED
+GO:0022618,protein-RNA complex assembly,UNASSIGNED
+GO:0006508,proteolysis,UNASSIGNED
+GO:0036343,psychomotor behavior,UNASSIGNED
+GO:0003177,pulmonary valve development,UNASSIGNED
+GO:0003184,pulmonary valve morphogenesis,UNASSIGNED
+GO:0009153,purine deoxyribonucleotide biosynthetic process,Metabolism
+GO:0045055,regulated exocytosis,UNASSIGNED
+GO:1903115,regulation of actin filament-based movement,UNASSIGNED
+GO:0006521,regulation of amino acid metabolic process,Metabolism
+GO:1905906,regulation of amyloid fibril formation,UNASSIGNED
+GO:0051098,regulation of binding,UNASSIGNED
+GO:0043903,regulation of biological process involved in symbiotic interaction,UNASSIGNED
+GO:0065008,regulation of biological quality,UNASSIGNED
+GO:0098905,regulation of bundle of His cell action potential,UNASSIGNED
+GO:0060828,regulation of canonical Wnt signaling pathway,UNASSIGNED
+GO:0098901,regulation of cardiac muscle cell action potential,UNASSIGNED
+GO:0098909,regulation of cardiac muscle cell action potential involved in regulation of contraction,UNASSIGNED
+GO:0086004,regulation of cardiac muscle cell contraction,UNASSIGNED
+GO:0050790,regulation of catalytic activity,UNASSIGNED
+GO:0010649,regulation of cell communication by electrical coupling,UNASSIGNED
+GO:0044087,regulation of cellular component biogenesis,UNASSIGNED
+GO:0051128,regulation of cellular component organization,UNASSIGNED
+GO:0060341,regulation of cellular localization,UNASSIGNED
+GO:2000303,regulation of ceramide biosynthetic process,Metabolism
+GO:0010712,regulation of collagen metabolic process,Metabolism
+GO:0002718,regulation of cytokine production involved in immune response,Inflammation
+GO:0031347,regulation of defense response,Inflammation
+GO:0051090,regulation of DNA-binding transcription factor activity,UNASSIGNED
+GO:0052548,regulation of endopeptidase activity,UNASSIGNED
+GO:0010717,regulation of epithelial to mesenchymal transition,UNASSIGNED
+GO:0010468,regulation of gene expression,UNASSIGNED
+GO:0034350,regulation of glial cell apoptotic process,UNASSIGNED
+GO:0045088,regulation of innate immune response,Inflammation
+GO:1902531,regulation of intracellular signal transduction,UNASSIGNED
+GO:1902229,regulation of intrinsic apoptotic signaling pathway in response to DNA damage,UNASSIGNED
+GO:0010565,regulation of ketone metabolic process,Metabolism
+GO:0060255,regulation of macromolecule metabolic process,Metabolism
+GO:0019222,regulation of metabolic process,Metabolism
+GO:0007088,regulation of mitotic nuclear division,UNASSIGNED
+GO:0065009,regulation of molecular function,UNASSIGNED
+GO:0033043,regulation of organelle organization,UNASSIGNED
+GO:0052547,regulation of peptidase activity,UNASSIGNED
+GO:0048548,regulation of pinocytosis,UNASSIGNED
+GO:0032434,regulation of proteasomal ubiquitin-dependent protein catabolic process,Metabolism
+GO:0032880,regulation of protein localization,UNASSIGNED
+GO:0051246,regulation of protein metabolic process,Metabolism
+GO:0031647,regulation of protein stability,UNASSIGNED
+GO:0030162,regulation of proteolysis,UNASSIGNED
+GO:0032101,regulation of response to external stimulus,UNASSIGNED
+GO:0080134,regulation of response to stress,UNASSIGNED
+GO:0062012,regulation of small molecule metabolic process,Metabolism
+GO:1902903,regulation of supramolecular fiber organization,UNASSIGNED
+GO:0045069,regulation of viral genome replication,UNASSIGNED
+GO:0050792,regulation of viral process,UNASSIGNED
+GO:0030111,regulation of Wnt signaling pathway,UNASSIGNED
+GO:0001836,release of cytochrome c from mitochondria,UNASSIGNED
+GO:0034552,respiratory chain complex II assembly,UNASSIGNED
+GO:0008535,respiratory chain complex IV assembly,UNASSIGNED
+GO:0022904,respiratory electron transport chain,UNASSIGNED
+GO:0009628,response to abiotic stimulus,UNASSIGNED
+GO:0009607,response to biotic stimulus,UNASSIGNED
+GO:0046686,response to cadmium ion,UNASSIGNED
+GO:0046688,response to copper ion,UNASSIGNED
+GO:0034097,response to cytokine,Inflammation
+GO:0036293,response to decreased oxygen levels,UNASSIGNED
+GO:0043207,response to external biotic stimulus,UNASSIGNED
+GO:0071774,response to fibroblast growth factor,UNASSIGNED
+GO:0001666,response to hypoxia,UNASSIGNED
+GO:0035456,response to interferon-beta,Inflammation
+GO:0070555,response to interleukin-1,Inflammation
+GO:0051707,response to other organism,UNASSIGNED
+GO:0006979,response to oxidative stress,UNASSIGNED
+GO:0070482,response to oxygen levels,UNASSIGNED
+GO:0000302,response to reactive oxygen species,UNASSIGNED
+GO:0006950,response to stress,UNASSIGNED
+GO:0034612,response to tumor necrosis factor,Inflammation
+GO:0034340,response to type I interferon,Inflammation
+GO:0034341,response to type II interferon,Inflammation
+GO:0009615,response to virus,UNASSIGNED
+GO:0022613,ribonucleoprotein complex biogenesis,UNASSIGNED
+GO:0000028,ribosomal small subunit assembly,UNASSIGNED
+GO:0042274,ribosomal small subunit biogenesis,UNASSIGNED
+GO:0042255,ribosome assembly,UNASSIGNED
+GO:0042254,ribosome biogenesis,UNASSIGNED
+GO:0006401,RNA catabolic process,Metabolism
+GO:0016070,RNA metabolic process,Metabolism
+GO:0086021,SA node cell to atrial cardiac muscle cell communication by electrical coupling,UNASSIGNED
+GO:0046903,secretion,UNASSIGNED
+GO:0032940,secretion by cell,UNASSIGNED
+GO:1905314,semi-lunar valve development,UNASSIGNED
+GO:0006614,SRP-dependent cotranslational protein targeting to membrane,UNASSIGNED
+GO:0097435,supramolecular fiber organization,UNASSIGNED
+GO:0044409,symbiont entry into host,UNASSIGNED
+GO:0046718,symbiont entry into host cell,White cell trafficking
+GO:0050852,T cell receptor signaling pathway,White cell trafficking
+GO:0048729,tissue morphogenesis,UNASSIGNED
+GO:0061383,trabecula morphogenesis,UNASSIGNED
+GO:0006412,translation,UNASSIGNED
+GO:0006414,translational elongation,UNASSIGNED
+GO:0006413,translational initiation,UNASSIGNED
+GO:0006415,translational termination,UNASSIGNED
+GO:0006810,transport,UNASSIGNED
+GO:0003186,tricuspid valve morphogenesis,UNASSIGNED
+GO:0033209,tumor necrosis factor-mediated signaling pathway,Inflammation
+GO:0060337,type I interferon-mediated signaling pathway,Inflammation
+GO:0060333,type II interferon-mediated signaling pathway,Inflammation
+GO:0060412,ventricular septum morphogenesis,UNASSIGNED
+GO:0003222,ventricular trabecula myocardium morphogenesis,UNASSIGNED
+GO:0016192,vesicle-mediated transport,UNASSIGNED
+GO:0019080,viral gene expression,UNASSIGNED
+GO:0019079,viral genome replication,UNASSIGNED
+GO:0019058,viral life cycle,UNASSIGNED
+GO:0016032,viral process,UNASSIGNED
+GO:0019083,viral transcription,UNASSIGNED
+GO:0016055,Wnt signaling pathway,UNASSIGNED
